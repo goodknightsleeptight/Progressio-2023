@@ -1,0 +1,147 @@
+.unsdgpage{
+    
+    position: relative;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:red solid; 
+    border-radius:20px; 
+    padding:20px;
+    min-height:30px; 
+    min-width: 120px;
+    transition-duration:0.4s;
+    cursor: pointer;
+  }
+
+  .unsdgpage:hover {
+    background-color: red;
+    color: white;
+
+  }
+
+
+
+  .ouraim{
+    position: relative;
+    
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:green solid; 
+    border-radius:20px; 
+    padding:20px;
+    min-height:30px; 
+    min-width: 120px;
+    transition-duration:0.4s;
+    cursor: pointer;
+  }
+
+  .ouraim:hover {
+    background-color: green;
+    color: white;
+  }
+
+
+
+
+  .takeactionnow{
+    position: relative;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:blue solid; 
+    border-radius:20px; 
+    padding:20px;
+    min-height:30px; 
+    min-width: 120px;
+    transition-duration:0.4s;
+    cursor: pointer;
+  }
+
+  .takeactionnow:hover {
+    background-color:blue;
+    color: white;
+  }
+
+
+
+
+  .solutions{
+    position: relative;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border: solid orange; 
+    border-radius:20px; 
+    padding:20px;
+    min-height:30px; 
+    min-width: 120px;
+    transition-duration:0.4s;
+    cursor: pointer;
+  }
+
+  .solutions:hover {
+    background-color: orange;
+    color: white;
+  }
+
+
+
+  
+
+
+
+
+
+  .signthepetition{
+    position: relative;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:blueviolet solid; 
+    border-radius:20px; 
+    padding:20px;
+    min-height:30px; 
+    min-width: 120px;
+    transition-duration:0.4s;
+    cursor: pointer;
+  }
+
+  .signthepetition:hover {
+    background-color: blueviolet;
+    color: white;
+  }
+
+
+.returntohomepage{
+    position: relative;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:goldenrod solid; 
+    border-radius:20px; 
+    padding:20px;
+    min-height:30px; 
+    min-width: 120px;
+    transition-duration:0.4s;
+    cursor: pointer;
+  }
+
+  .returntohomepage:hover {
+    background-color: goldenrod;
+    color: white;
+  }
+
+
+  body {
+    background-color: #DBF9FC;
+    
+    }
+
+title {
+    background-color: aqua;
+
+  }
+
+
+
